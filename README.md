@@ -1,4 +1,4 @@
-# -Churn-Prediction-Via-Frequency-Deca
+# Churn-Prediction-Via-Frequency-Deca
 
 # 📉 E-Commerce Customer Churn Risk Analysis via Purchase Frequency Decay
 
