@@ -23,4 +23,4 @@ A clean, business-driven churn risk analysis system built for E-Commerce platfor
 - Automated churn tracking dashboards, improving decision speed by 35%
 
 ## 📧 Contact
-[Your LinkedIn](https://linkedin.com/in/yourprofile)
+[Your LinkedIn](https://www.linkedin.com/in/sindhu-vijaynedmaran/)
